@@ -2,4 +2,4 @@ teste
 versao 1.0
 alteracao linha 3
 altracao feita pelo git
-linha feita na linha original
+linha feita na linha original altrração conflito
